@@ -1,4 +1,4 @@
-# hsjafari
+# cortex
 
 Red Team Operator & Python toolsmith. I build adversary-emulation tooling, C2 bits, and automation that doesn’t wake you up at 03:00 AM.  
 
