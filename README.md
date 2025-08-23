@@ -1,11 +1,13 @@
 # cortex
 
-Red Team Operator & Python toolsmith. I build adversary-emulation tooling, C2 bits, and automation that doesn’t wake you up at 03:00 AM.  
+Red Team Operator & Python toolsmith. I build social tooling, C2 server, and automation recon that doesn’t wake you up at 03:00 AM.  
 
+
+
+<img width="360" height="360" alt="test" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lpdzR1YWdjcTk2YTQydDY3cGxrOXA2MjRuYzAwMTNiZ3E2MDZpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" />
 
 [![Follow](https://img.shields.io/github/followers/hsjafari?label=Follow&style=social)](https://github.com/hsjafari)
 [![Stars](https://img.shields.io/github/stars/hsjafari?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/hsjafari?tab=repositories)
-
 ---
 
 ## What I build
