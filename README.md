@@ -33,6 +33,6 @@ Only for **authorized** engagements and research. If you’re not the owner or d
 ### Selected repos
 > Pin your top projects so they surface here.
 - 🔴 **cortex-c2** — operator-first Python C2 with transport plugins.
-- 🧬 **cortex-win_sys_mgmt ** Unified Windows System‑Management Framework.
-
+- 🧬 **cortex-win_sys_mgmt** Unified Windows System‑Management Framework.
+- **evilginx-websocket-proxy** evilginx + websocket reverse proxy
 ---
